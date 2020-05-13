@@ -11,7 +11,9 @@
             <!-- menu -->
            <nav class="navbar navbar-expand-lg navbar-dark bg-info">
                <div class="container">
-                  <a class="navbar-brand" href="#">SolaScriptura</a>
+                  <a class="navbar-brand" href="#">
+                      <img src="../assets/logo.png" alt="logo de solascriptura" style="width: 91px;">
+                  </a>
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
@@ -41,7 +43,7 @@
                    
                 </div>
                 <div class="col-md-6">
-                    <img class="img-fluid" src="../assets/bg-1.png" alt="">
+                    <img class="img-fluid" src="../assets/logo.png" alt="">
                 </div>
             </div>
         
