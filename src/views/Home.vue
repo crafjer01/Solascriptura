@@ -421,8 +421,12 @@
                       <div class="creadores">
                         <h2>Creadores</h2>
                         <p>Carlos Pineda</p>
-                        <p>Gerson Lamarche</p
                         <p>Anuard Michelen</p>
+                      </div>
+                      <div class="creadores">
+                        <h2>Colaboradores</h2>
+                        <p>Wander Marte - Mayker Michelen - Yadir Villegas</p>
+                        <p>Gerson Lamarche - Juan Mitchel</p>
                       </div>
                       <div class="info-address">
                             <h2>Correo electrónico</h2>
@@ -477,10 +481,8 @@ export default {
                 repositorioPreguntas: [],
                 antiguoTestamento: [],
                 nuevoTestamento: [],
-                antiguoTestamentoDB: [
-                ],
-                nuevoTestamentoDB: [
-                ],
+                antiguoTestamentoDB: [],
+                nuevoTestamentoDB: [],
                 cantidadSegundos: 30,
                 participantes: [],
                 juegoResultados: {
@@ -1226,8 +1228,8 @@ methods: {
                 juego.cantidadRondasContador =  1;
                 juego.cantidadPreguntas =  null;
                 juego.repositorioPreguntas =  [];
-                juego.antiguoTestamento =  '';
-                juego.nuevoTestamento =  '';
+                juego.antiguoTestamento =  [];
+                juego.nuevoTestamento =  [];
                 juego.juegoResultados =  {
                     show: false,
                     participantes: []
