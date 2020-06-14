@@ -1084,7 +1084,18 @@ methods: {
                    pregunta.cantidadSegundosResponder--;
 
                   if( pregunta.cantidadSegundosResponder <= 0) {
-                     clearInterval(pregunta.contadorSegundo);
+                      clearInterval(pregunta.contadorSegundo);
+                      Swal.fire({
+                        title: 'Tiempo terminado, favor pasar a la siguiente pregunta.',
+                        icon: 'info',
+                        showClass: {
+                            popup: 'animated fadeInDown faster'
+                        },
+                        hideClass: {
+                            popup: 'animated fadeOutUp faster'
+                        }}
+                        ); 
+                     
                   }
                 }, 1000);
             },
