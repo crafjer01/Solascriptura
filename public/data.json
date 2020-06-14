@@ -1,0 +1,6223 @@
+[
+    {
+       "id":"1",
+       "descripcion":"El padrastro de Jesús  ",
+       "cita":"1:18-19",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"José",
+       "respuestas":[
+          {
+             "descripcion":"José",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Simón",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Teofilo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Zacarías",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"2",
+       "descripcion":"Significado de Emanuel ",
+       "cita":"01:23",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Dios con nosotros",
+       "respuestas":[
+          {
+             "descripcion":"Gloria a Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dios con nosotros",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Salvador",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"3",
+       "descripcion":"¿En qué estructura física encontraron a Jesús los Magos? ",
+       "cita":"02:11",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Casa",
+       "respuestas":[
+          {
+             "descripcion":"Casa",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Casa",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tabernáculo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Templo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"4",
+       "descripcion":"¿A donde huyeron José y Maria de Herodes?",
+       "cita":"02:13",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Egipto",
+       "respuestas":[
+          {
+             "descripcion":"Babilonia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Egipto",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Galilea",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Nazaret",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"5",
+       "descripcion":"¿Cuál fue la razón que Jesús dio, del porque tenía que ser Bautizado?",
+       "cita":"03:15",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Limpios de corazón",
+       "respuestas":[
+          {
+             "descripcion":"Mansos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Misericordiosos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pacificadores",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Limpios de corazón",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"6",
+       "descripcion":"En el \"Sermón del Monte\" Jesús dijo que tú eras la…. ",
+       "cita":"05:13",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Sal de la Tierra",
+       "respuestas":[
+          {
+             "descripcion":"Generación elegida",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sacerdocio Real",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sal de la Tierra",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Todas las de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"7",
+       "descripcion":"¿En el \"Sermón del Monte\" que cosas dice Jesús debemos hacer en secreto? ",
+       "cita":"6:1-18",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todas las de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Dar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ayunar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Orar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas las de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"8",
+       "descripcion":"¿Que ejemplo en la naturaleza huso Jesús para hacernos saber que Dios siempre provee? ",
+       "cita":"06:26",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Pájaros",
+       "respuestas":[
+          {
+             "descripcion":"Hormigas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pájaros",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Conejos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Arañas",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"9",
+       "descripcion":"¿Qué contrastes hizo Jesús en el \"Sermón de la Monte\"? ",
+       "cita":"7:13-18",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todas las de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Estrecho y puertas anchas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Maneras estrechas y anchas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Bueno y corrompe Árboles",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas las de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"10",
+       "descripcion":"¿Qué fue acerca del centurión que causó que Jesús se maravillase? ",
+       "cita":"08:10",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Fe",
+       "respuestas":[
+          {
+             "descripcion":"Disciplina",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Fe",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Conocimiento",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Perseverancia",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"11",
+       "descripcion":"¿Cual era el oficio de Mateo antes de ser discípulo de Jesús? ",
+       "cita":"09:09",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Pescador",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Granjero",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Medico",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"12",
+       "descripcion":"¿Que ilustración hizo Jesús mostrando que el debe comer con publícanos y pecadores? ",
+       "cita":"9:11-12",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Los sanos no tienen necesidad de médico, sino los enfermos",
+       "respuestas":[
+          {
+             "descripcion":"Nuevo vino en nuevos odres",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El pedazo de una nueva prenda de vestir puesta en una prenda de vestir vieja",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La parábola del trigo y las taras",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Los sanos no tienen necesidad de médico, sino los enfermos",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"13",
+       "descripcion":"¿Qué pregunta hizo Jesús para que los ciegos reforzaran su fe?",
+       "cita":"09:28",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"¿Creen ustedes que puedo hacer esto?",
+       "respuestas":[
+          {
+             "descripcion":"¿Creen ustedes que puedo hacer esto?",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"¿Creen ustedes que serán sanados cuando yo les toco?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"¿Quieren ustedes que haga el bien?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"14",
+       "descripcion":"¿Cual era la petición de Jesús en sus oraciones? ",
+       "cita":"09:38",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Que el Señor de la mies enviara a trabajadores",
+       "respuestas":[
+          {
+             "descripcion":"Para su pan de cada día",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para su pan de cada día",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Que él fuera entregado por hombres injustos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Que el Señor de la mies enviara a trabajadores",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"15",
+       "descripcion":"¿Que dice Jesús acerca de que todo está contado? ",
+       "cita":"10:30",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El cabello de tu cabeza",
+       "respuestas":[
+          {
+             "descripcion":"El ganado en mil colinas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El polvo sobre la orilla del mar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El cabello de tu cabeza",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Estrellas en el cielo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"16",
+       "descripcion":"¿Qué pequeño acto dijo Jesús seria recompensado? ",
+       "cita":"10:42",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Dar un vaso de agua fría",
+       "respuestas":[
+          {
+             "descripcion":"Dar un vaso de agua fría",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Pagar diezmos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Cuidar niños",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todos los de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"17",
+       "descripcion":"¿De quien hablaba Jesús al decir que no se ha levantado otro mayor de mujer alguna?",
+       "cita":"11:11",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Juan el Bautista",
+       "respuestas":[
+          {
+             "descripcion":"Elías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Juan el Bautista",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Moisés",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Isaías",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"18",
+       "descripcion":"¿Que prometió Jesús a los que estaban cargados y trabajados? ",
+       "cita":"11:28",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestas":[
+          {
+             "descripcion":"Alegría",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Paz",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Reposo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Rectitud",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"19",
+       "descripcion":"¿Qué dice Mateo que Jesús sabia lo de los escribas cuando lo acusaban de arrojar demonios por beelzebu?",
+       "cita":"12:24-25",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Sus pensamientos",
+       "respuestas":[
+          {
+             "descripcion":"Sus pecados",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su pasado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sus pensamientos",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Todos de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"20",
+       "descripcion":"Cuando los escribas y Fariseos querían una señal que señal, ¿dijo Jesús que le daría a la generación mala y adultera? ",
+       "cita":"12:38-40",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"La señal de profeta Jonás",
+       "respuestas":[
+          {
+             "descripcion":"Cuando Moisés levantó la serpiente en el desierto, aún debe el Hijo de Hombre ser levantado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Destruir este templo, y en tres días lo levantare",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La señal de profeta Jonás",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Usted verá el Espíritu que desciende como una paloma fuera de cielo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"21",
+       "descripcion":"¿De quién dijo Jesús que él era mayor? ",
+       "cita":"12:41-42",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Abraham",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"David",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Elías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"22",
+       "descripcion":"¿Qué limito a Jesús hacer milagros en su propio país ",
+       "cita":"13:58",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Incredulidad",
+       "respuestas":[
+          {
+             "descripcion":"Su oficio en carpintería",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Oposiciones de los Fariseos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su familiaridad con el",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Incredulidad",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"23",
+       "descripcion":"¿Que hizo Jesús después de despedir a la multitud? ",
+       "cita":"14:23",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Subió al monte a orar",
+       "respuestas":[
+          {
+             "descripcion":"Consulto con sus discípulos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Subió al barco",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Durmió",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Subió al monte a orar",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"24",
+       "descripcion":"¿Qué grito Pedro a Jesús cuando se estaba hundiendo en el agua? ",
+       "cita":"14:30",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Señor, sálvame",
+       "respuestas":[
+          {
+             "descripcion":"Dios es misericordioso y yo un pecador",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ayúdame, me ahogo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Señor, sálvame",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Recuérdame cuando llegues a tu Reino",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"25",
+       "descripcion":"¿Que era la levadura de los Fariseos? ",
+       "cita":"16:12",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Su doctrina",
+       "respuestas":[
+          {
+             "descripcion":"Su amargura",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su espíritu",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su doctrina",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Su incredulida",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"26",
+       "descripcion":"¿Cuál fue la respuesta que dieron los discípulos cuando Jesús les pregunto? ¿Quién dicen los hombres que soy? ",
+       "cita":"16:14",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todos los de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Juan el bautista",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Elías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jeremías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todos los de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"27",
+       "descripcion":"¿Cuando Jesús pregunto quien dices que soy? ¿Quien dijo: Tu eres el Cristo, el hijo del Dios viviente? ",
+       "cita":"16:16",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Pedro",
+       "respuestas":[
+          {
+             "descripcion":"Santiago",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Felipe",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"28",
+       "descripcion":"¿Qué dijo Jesús que un hombre debe de hacer para poder seguirlo? ",
+       "cita":"16:24",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todos de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Todos de arriba",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Seguirlo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tomar su propia cruz",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Negarse a si mismo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"29",
+       "descripcion":"¿Cual fue una de la razón que Jesús dio a sus discípulos cuando ellos le preguntaron por que ellos no pudieron echar fuera al demonio del muchacho? ",
+       "cita":"17:20",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Su incredulidad",
+       "respuestas":[
+          {
+             "descripcion":"Por que aun no había ascendido",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su incredulidad",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sus pecado los habían separado de dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Necesitaban el espíritu santo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"30",
+       "descripcion":"¿Como hizo Jesús para pagar el impuesto al templo? ",
+       "cita":"17:27",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Obteniendo una moneda de la boca de un pez",
+       "respuestas":[
+          {
+             "descripcion":"Vendiendo algunas palomas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Obteniendo una moneda de la boca de un pez",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Tomando la moneda del tesoro que Judas mantuvo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tomando una oferta",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"31",
+       "descripcion":"¿Qué perfecto ejemplo Jesús dio, cuando los discípulos razonaban cuál de ellos debe ser más grande? ",
+       "cita":"18:1-4",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Un niño pequeño",
+       "respuestas":[
+          {
+             "descripcion":"Un niño pequeño",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Los lirios del campo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Semillas de mostaza",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Una perla de gran valor",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"32",
+       "descripcion":"¿Cuál es el primer paso que uno debe tomar para perdonar a un hermano que peca contra ti? ",
+       "cita":"18:15",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ve y repréndele estando tu y el solos",
+       "respuestas":[
+          {
+             "descripcion":"Ve y repréndele estando tu y el solos",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Reprenda ante todos, que otros pueden temer también",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Toma aun contigo a uno o dos testigos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dilo a la iglesia",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"33",
+       "descripcion":"¿Cuántas veces le dijo Pedro que podría perdonar a una persona? ",
+       "cita":"18:21-22",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Setenta veces siete",
+       "respuestas":[
+          {
+             "descripcion":"Siete veces",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Setenta veces",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Setenta veces siete",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"1000 veces",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"34",
+       "descripcion":"Una persona que repudia a su esposa y se casa con otra, ¿comete adulterio solo si ella comete cual causa? ",
+       "cita":"19:09",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Embriaguez",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Glotonería",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Mentira",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"35",
+       "descripcion":"¿Cuánto fue lo que recibieron cada uno de los trabajadores como pago por el día o la parte del día que ellos trabajaron en la viña? ",
+       "cita":"20:1-2",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Un denario",
+       "respuestas":[
+          {
+             "descripcion":"Una pieza de plata",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Un denario",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Una libra",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Un talento",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"36",
+       "descripcion":"¿Quién hizo la petición de que Santiago y Juan se sentaran a ambos lados de Jesús en la gloria? ",
+       "cita":"20:20-21",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Su hermana",
+       "respuestas":[
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su padre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su madre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su hermana",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"37",
+       "descripcion":"¿Cuales dos mandamientos dependen toda la ley y los profetas?",
+       "cita":"22:37-40",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Amar a dios con todo tu corazón, alma, mente y ama a tu prójimo como a ti mismo",
+       "respuestas":[
+          {
+             "descripcion":"Temor de dios y mantener sus mandamientos por esto es el deber de todo hombre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Amar a dios con todo tu corazón, alma, mente y ama a tu prójimo como a ti mismo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Ora sin cesar y en todo da gracias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Somete a Dios y resiste al mal",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"38",
+       "descripcion":"¿Cuál fue la motivación de las obras de los fariseos? ",
+       "cita":"23:05",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Para ser vistos por hombre",
+       "respuestas":[
+          {
+             "descripcion":"Para ser vistos por hombre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Para tener recompensa en los cielos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para complacer a Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para sobrepasar a los saduceos",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"39",
+       "descripcion":"¿Por que dijo Jesús que deben de ser aborrecidos por todas las naciones?",
+       "cita":"(24:9)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Por causa de mi nombre",
+       "respuestas":[
+          {
+             "descripcion":"Gobierno democrático",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Por causa de mi nombre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"La santidad",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Por hablar en lenguas",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"40",
+       "descripcion":"¿Que cantidad de talentos recibieron los siervos? ",
+       "cita":"(25:15)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todos de arriba",
+       "respuestas":[
+          {
+             "descripcion":"1",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"2",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"5",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todos de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"41",
+       "descripcion":"¿Qué preguntas hicieron los discípulos al ver una mujer derramando perfume de gran precio sobre Jesús? ",
+       "cita":"(26:8)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"¿Para que este desperdicio?",
+       "respuestas":[
+          {
+             "descripcion":"¿Para que este desperdicio?",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Esta obra será mencionad como memoria a ella en donde el evangelio sea predicado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"¿Quien dio más?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"¿Quien amo más?",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"42",
+       "descripcion":"¿Por cuánto acordó judas para traicionar al señor? ",
+       "cita":"(26:15)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"30 piezas de oro",
+       "respuestas":[
+          {
+             "descripcion":"Amnistía por ser discípulo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Una taza de potaje",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"10 monedas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"30 piezas de oro",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"43",
+       "descripcion":"¿Qué seña dio Judas a los soldados para identificar a Jesús? ",
+       "cita":"(26:48)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Un beso",
+       "respuestas":[
+          {
+             "descripcion":"Un beso",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Un saludo de mano",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La lámpara cercad de el",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Una espada",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"44",
+       "descripcion":"¿Qué fue lo que Judas dijo cuando regreso las treinta monedas de plata a los principales sacerdotes y los ancianos? ",
+       "cita":"(27:3-4)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"He pecado al traicionar sangre inocente",
+       "respuestas":[
+          {
+             "descripcion":"Dios tenga misericordia de mi, un pecador",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ya tengo lo que quiero pero no era lo que quería",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"He jugado como un tonto y he errado grandemente",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"He pecado al traicionar sangre inocente",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"45",
+       "descripcion":"¿Quien ofreció Pilatos dejar libre en vez de Jesús? ",
+       "cita":"(27:17)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Barrabás",
+       "respuestas":[
+          {
+             "descripcion":"Bernabé",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Barrabás",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Bartolomé",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Bartimaeus",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"46",
+       "descripcion":"¿Qué le mando decir su esposa a Pilatos? ",
+       "cita":"(27:19)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"No tengas nada que ver con ese justo",
+       "respuestas":[
+          {
+             "descripcion":"Termina con el",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Crucifícalo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"No tengas nada que ver con ese justo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Corta la cabeza de Jesús y ponla en un plato",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"47",
+       "descripcion":"¿Qué le dieron los soldados a Jesús cuando lo llevaron al palacio? ",
+       "cita":"(27:27-29)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todo lo de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Una corona de espinas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Una caña",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Un manto de escarlata",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todo lo de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"48",
+       "descripcion":"¿Porque los sacerdotes le dieron a los soldados grandes cantidades de dinero para proteger la tumba de Jesús? ",
+       "cita":"(28:12-13)",
+       "libro":"mateo",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Para que dijeran que los discípulos robaron el cuerpo de Jesús mientras dormían",
+       "respuestas":[
+          {
+             "descripcion":"Pago extra por trabajar tiempo extra",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pago por trabajo peligroso",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para que cuidaran la tumba bien",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para que dijeran que los discípulos robaron el cuerpo de Jesús mientras dormían",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"49",
+       "descripcion":"¿Qué dijo la voz que descendía de los cielos en el bautismo de Jesús? ",
+       "cita":"(1:9-11)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Tu eres mi Hijo amado; en ti tengo complacencia",
+       "respuestas":[
+          {
+             "descripcion":"Reciba al cordero de Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tu eres mi Hijo amado; en ti tengo complacencia",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Este es mi hijo amado; escúchenlo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El reinará para siempre y de su reino no habrá fin",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"50",
+       "descripcion":"¿Cuanto tiempo estuvo tentado in el desierto? ",
+       "cita":"(1:13)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Cuarenta días",
+       "respuestas":[
+          {
+             "descripcion":"Un día",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tres días",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Doce días",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Cuarenta días",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"51",
+       "descripcion":"¿Quien era el padre de Jacobo y Juan? ",
+       "cita":"(1:19)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Zaccheus",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Zacarias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Zebulun",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"52",
+       "descripcion":"¿Qué dice la Biblia que causó que las personas fueran asombradas en la enseñanza de Jesús comparando a eso de los escribientes y Fariseos? ",
+       "cita":"(1:22)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El les enseño como tener autoridad",
+       "respuestas":[
+          {
+             "descripcion":"Aún los vientos y ondas obedecieron su voz",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El enseño lo que el vivió",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El les enseño como tener autoridad",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Su enseñanza fue mas exacta",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"53",
+       "descripcion":"¿Que hizo Jesús por la suegra de Pedro? ",
+       "cita":"(1:30-31)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"La curo de un asunto de sangre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La curo de hipocresía",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La curo de parálisis",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"54",
+       "descripcion":"Y el les dijo, vamos a los _________, para que predique también allí ",
+       "cita":"(1:38)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Pueblos",
+       "respuestas":[
+          {
+             "descripcion":"Países",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Naciones",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Provincias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pueblos",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"55",
+       "descripcion":"¿Que le dijo Jesús al leproso que el limpio? ",
+       "cita":"(1:44)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ve y muéstrate a el sacerdote",
+       "respuestas":[
+          {
+             "descripcion":"Ve y no peques más",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ve y muéstrate a el sacerdote",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Levanta tu cama y camina",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tus pecados han sido perdonados",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"56",
+       "descripcion":"¿Cual fue la primera palabra que Jesús le dijo a el hombre con parálisis que bajaron por la abertura de el techo? ",
+       "cita":"(2:5)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Tus pecados son perdonados",
+       "respuestas":[
+          {
+             "descripcion":"Ve y no peques mas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sigue tu camino, muéstrate al sacerdote",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Toma tu cama y camina",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tus pecados son perdonados",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"57",
+       "descripcion":"¿En el viaje a través de el lago, que le mostró Jesús a la humanidad? ",
+       "cita":"(4:38)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Su descanso",
+       "respuestas":[
+          {
+             "descripcion":"Su hambre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su descanso",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Su sed",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todos de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"58",
+       "descripcion":"¿En el mismo viaje que enseño la divinidad de Jesús? ",
+       "cita":"(4:39)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Calmo el viento y las olas",
+       "respuestas":[
+          {
+             "descripcion":"Calmo el viento y las olas",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Calmo a una multitud de peces",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Curo al capitán del barco",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Camino sobre el agua",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"59",
+       "descripcion":"Además de librarlo de diablos, describe lo que fue más diferente acerca del hombre de Gadara después que Jesús saco las legiónes de diablo. ",
+       "cita":"(5:15)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todas de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Arropado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"En su mente correcta",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sentado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"60",
+       "descripcion":"¿Cuando el hombre de Gadara decidió ir con Jesús, que le dijo Jesús? ",
+       "cita":"(5:19)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Sígueme y voy a hacer de ti un pescador de hombres",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Los zorros tienen hoyos y los pájaros tienen los nidos pero el Hijo de hombre no tiene un lugar para colocar la cabeza",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"61",
+       "descripcion":"¿Cuanto tiempo tenia la mujer con el asunto de la sangre?",
+       "cita":"(5:25)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Doce años",
+       "respuestas":[
+          {
+             "descripcion":"Siete años",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Doce años",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Diez y ocho años",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Treinta y ocho años",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"62",
+       "descripcion":"¿De quien era la hija que devolvió Jesús a la vida? ",
+       "cita":"(5:22-23, 41-42)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Jairo",
+       "respuestas":[
+          {
+             "descripcion":"Dorcas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jairo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Hidalgo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La viuda de Nain",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"63",
+       "descripcion":"¿Quien hizo que acompañara a Jesús, cuando el levanto la niña a la vida? ",
+       "cita":"(5:37)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todos de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Jacobo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todos de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"64",
+       "descripcion":"¿Quien pensó Herodes que era Jesús?",
+       "cita":"(6:14)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Elías",
+       "respuestas":[
+          {
+             "descripcion":"Elías",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Juan el Bautista",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Isaías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Moisés",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"65",
+       "descripcion":"¿Quien danzo ante Herodes? ",
+       "cita":"(6:22)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"La hija de Felipe",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Esther",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su esposa",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"66",
+       "descripcion":"¿Como muere Juan el Bautista? ",
+       "cita":"(6:27)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Decapitado",
+       "respuestas":[
+          {
+             "descripcion":"Decapitado",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Hervido en aceite",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Crucificado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Colgado",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"67",
+       "descripcion":"¿A que hora de la noche vieron caminar a Jesús sobre el mar? ",
+       "cita":"(6:48)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Cuarta vigilia",
+       "respuestas":[
+          {
+             "descripcion":"Segunda vigilia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Media noche",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tercera vigilia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Cuarta vigilia",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"68",
+       "descripcion":"¿Que hizo que Jesús acusara a los fariseos de enseñar sus propias doctrinas? ",
+       "cita":"(7:7)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Los mandamientos de hombres",
+       "respuestas":[
+          {
+             "descripcion":"Los mandamientos de hombres",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Fabulas de esposas Viejas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Filosofía",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"A ciencia falsamente callada",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"69",
+       "descripcion":"¿Por que los fariseos invalidaron la palabra de Dios? ",
+       "cita":"(7:13)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Sus tradiciones",
+       "respuestas":[
+          {
+             "descripcion":"Sus oraciones",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sus pecados",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sus tradiciones",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Su incredulidad",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"70",
+       "descripcion":"¿Que dice Jesús que ensucia a un hombre? ",
+       "cita":"(7:21-23)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Comer sangre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Comer con las manos sucias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Comer cosas estranguladas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"71",
+       "descripcion":"¿Que método inusual utilizo Jesús con el hombre que estaba sordomudo? ",
+       "cita":"(7:33)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Puso sus dedos en sus orejas",
+       "respuestas":[
+          {
+             "descripcion":"Le permitió tocar el dobladillo de su vestido",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Puso sus dedos en sus orejas",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Le dijo que se fuera a lavar a la piscina de siloam",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Le dijo que se lo mostrara a los sacerdotes",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"72",
+       "descripcion":"¿Que paso cuando Jesús toco al ciego la segunda vez? ",
+       "cita":"(8:25)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Vio a cada hombre claramente",
+       "respuestas":[
+          {
+             "descripcion":"Vio a hombres como árboles que andan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Vio a cada hombre claramente",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Le dijo que fuera a lavarse a la piscina de siloam",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Le dijo que fuera a mostrarles a los sacerdotes",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"73",
+       "descripcion":"¿Que dijo Jesús que seria mejor que pasara como resultado si fueras el causante del tropiezo de algún pequeño que creyera en el? ",
+       "cita":"(9:42)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Se arranque un ojo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Se arranque un pie",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Se arranque una mano",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"74",
+       "descripcion":"¿Que dijo Jesús con respecto ala riqueza? ",
+       "cita":"(10:24)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Confiar en la riqueza",
+       "respuestas":[
+          {
+             "descripcion":"Engaños",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El amor al dinero es la raíz de todo mal",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Confiar en la riqueza",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"No puedes servir a Dios y al dinero",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"75",
+       "descripcion":"¿Cual era el nombre de el ciego mendigo que recibió su vista de nuevo? ",
+       "cita":"(10:46)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Bartimeo",
+       "respuestas":[
+          {
+             "descripcion":"Barrabas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Barnabas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Bartolomé",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Bartimeo",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"76",
+       "descripcion":"¿Como dice Jesús que su casa debe de ser llamada? ",
+       "cita":"(11:17)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Una casa de oración",
+       "respuestas":[
+          {
+             "descripcion":"Una iglesia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Una casa de oración",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"El tabernáculo de Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El Templo de Dios",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"77",
+       "descripcion":"¿Que dijo Jesús que podrías hacer si tuvieras fe? ",
+       "cita":"(11:22-23)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Mover montañas",
+       "respuestas":[
+          {
+             "descripcion":"Saltar sobre una pared",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Mover montañas",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Vencer obstáculos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Correr como una tropa",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"78",
+       "descripcion":"¿Que dice Jesús que debemos de hacer cuando estemos orando? ",
+       "cita":"(11:25)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Perdonar",
+       "respuestas":[
+          {
+             "descripcion":"Llorar en voz alta",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Perdonar",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Interceder",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Arrepentirse",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"79",
+       "descripcion":"¿Como respondió Jesús cuando los discípulos le mostraron las piedras de el templo? ",
+       "cita":"(13:2)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"No quedara piedra sobre piedra, que no sea derribada",
+       "respuestas":[
+          {
+             "descripcion":"Destruiré este templo, y en tres días lo reedificare",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"No quedara piedra sobre piedra, que no sea derribada",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"En la mayoría de templos hechos a mano, no mora nadie",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tu cuerpo es el templo del espíritu santo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"80",
+       "descripcion":"¿Cuando Jesús les dijo a los discípulos que uno de ellos le traicionaría, quien pregunto? ¿seré yoseré yo? ",
+       "cita":"(14:19)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todos los apóstoles",
+       "respuestas":[
+          {
+             "descripcion":"Todos los apóstoles",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Judas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"81",
+       "descripcion":"¿Que fueron a hacer los discípulos de Jesús mientras el oraba en el jardín de Getsemani? ",
+       "cita":"(14:37)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Comiendo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Orando",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Hablando",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"82",
+       "descripcion":"¿Que dijo Jesús que causo que los sacerdotes y los ancianos lo condenaran a muerte? ",
+       "cita":"(14:62-64)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Vengo en el nombre de mi padre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Mi padre y yo somos uno mismo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Yo soy la puerta",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"83",
+       "descripcion":"¿A quien obligaron a que llevara la cruz por Jesús?",
+       "cita":"(15:21)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Simón de Cirene",
+       "respuestas":[
+          {
+             "descripcion":"José de Arimatea",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Nicodemo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Simón de Cirene",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Simón Pedro",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"84",
+       "descripcion":"¿Que exclamación hizo el centurión después de que Jesús muriera en la cruz? ",
+       "cita":"(15:39)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Verdaderamente este hombre era Hijo de Dios",
+       "respuestas":[
+          {
+             "descripcion":"Dios es misericordioso de un pecador",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"He pecado y no alcancé la gloria de Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Verdaderamente este hombre era Hijo de Dios",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Pobre de mí yo soy un hombre de labios impuros",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"85",
+       "descripcion":"¿Quién preguntó osadamente a Pilatos por el cuerpo de Jesús? ",
+       "cita":"(15:43)",
+       "libro":"marcos",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"José de Arimatea",
+       "respuestas":[
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"José de Arimatea",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Nicodemo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"86",
+       "descripcion":"Persona a quien Lucas dedico el libro ",
+       "cita":"(1:3)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Teófilo",
+       "respuestas":[
+          {
+             "descripcion":"José",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Simón",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Teófilo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Zacarías",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"87",
+       "descripcion":"Persona que quedo muda antes de que se escribiera el nombre de su hijo ",
+       "cita":"(1:18-20)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Zacarías",
+       "respuestas":[
+          {
+             "descripcion":"José",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Herodes",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Zacarías",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Zebede",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"88",
+       "descripcion":"Virgen cuando su primer hijo nació ",
+       "cita":"(1:27)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"María",
+       "respuestas":[
+          {
+             "descripcion":"Anna",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Elizabeth",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"María",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Rut",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"89",
+       "descripcion":"Angel que anuncio los nacimientos de Juan y Jesús ",
+       "cita":"(1:19,26)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Gabriel",
+       "respuestas":[
+          {
+             "descripcion":"Emanuel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Gabriel",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Miguel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Moroni",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"90",
+       "descripcion":"Madre de Juan ",
+       "cita":"(1:57-60)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Elizabet",
+       "respuestas":[
+          {
+             "descripcion":"Anna",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Elizabet",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"María",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Rut",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"91",
+       "descripcion":"¿En cuál ceremonia recibió Jesús su nombre? ",
+       "cita":"(2:21)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Circuncisión",
+       "respuestas":[
+          {
+             "descripcion":"Bautismo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Circuncisión",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Comunion",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pascua",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"92",
+       "descripcion":"Reconoció que él no vería la muerte hasta que él hubiera visto al Cristo. ",
+       "cita":"(2:25-26)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Simón",
+       "respuestas":[
+          {
+             "descripcion":"Simón",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Judas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Teófilo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Zacarías",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"93",
+       "descripcion":"Viuda quien no se apartaba del templo. ",
+       "cita":"(2:36-37)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ana",
+       "respuestas":[
+          {
+             "descripcion":"Ana",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Elizabet",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"María",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Rut",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"94",
+       "descripcion":"¿Cuántos años tenía Jesús cuando él fue a la Pascua con sus padres? ",
+       "cita":"(2:41-42)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"12 años",
+       "respuestas":[
+          {
+             "descripcion":"8 días",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"40 días",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"5 años",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"12 años",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"95",
+       "descripcion":"¿Qué libro le dieron a Jesús para leer en la sinagoga de Nazaret?",
+       "cita":"(4:16-17)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Deuteronomio",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jeremías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Joel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"96",
+       "descripcion":"¿Como hizo Jesús para escapar de la gente de Nazaret? ",
+       "cita":"(4:29-30)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Angeles cegaron sus ojos",
+       "respuestas":[
+          {
+             "descripcion":"Una guarnición de soldados lo libero",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Angeles cegaron sus ojos",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"El paso por en medio de ellos y se fue",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El fue bajado sobre una pared en una cesta",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"97",
+       "descripcion":"¿Cuánto tiempo paso orando Jesús antes de elegir a los doce? ",
+       "cita":"(6:12-13)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Toda la noche",
+       "respuestas":[
+          {
+             "descripcion":"Toda la noche",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Un dia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tres días",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Cuarenta días",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"98",
+       "descripcion":"¿Cual regla es conocida como la regla de oro? ",
+       "cita":"(6:31)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todo lo que quieras que los hombres hagan por ti, hazlo también",
+       "respuestas":[
+          {
+             "descripcion":"Da y se te dará",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ama a tu prójimo como a ti mismo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ora por los que son despectivos contigo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todo lo que quieras que los hombres hagan por ti, hazlo también",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"99",
+       "descripcion":"¿Que encontró Jesús en la ciudad llamada Naín? ",
+       "cita":"(7:11-12)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Funeral",
+       "respuestas":[
+          {
+             "descripcion":"Funeral",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Boda",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Oposición",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Fariseos",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"100",
+       "descripcion":"En la parábola del sembrador, ¿Que representa la semilla? ",
+       "cita":"(8:11)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Palabra de Dios",
+       "respuestas":[
+          {
+             "descripcion":"Espíritu de Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Agua de bautismo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Palabra de Dios",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Fe",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"101",
+       "descripcion":"¿Quién apareció con Jesús sobre lo que llamamos monte de la transfiguración? ",
+       "cita":"(9:30)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"David",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Elías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Isaías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"102",
+       "descripcion":"¿Que querían hacer Jacobo y Juan a los samaritanos que no quisieron recibir a Jesús? ",
+       "cita":"(9:54)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Que descienda fuego del cielo para que los consuma",
+       "respuestas":[
+          {
+             "descripcion":"Que descienda fuego del cielo para que los consuma",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Que la tierra se los trague",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Que serpientes de fuego los acabe",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Les reproche",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"103",
+       "descripcion":"¿Quien dice Jesús que es digno de su salario? ",
+       "cita":"(10:7)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Obrero",
+       "respuestas":[
+          {
+             "descripcion":"Anciano",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Mercenario",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Obrero",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Pastor",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"104",
+       "descripcion":"¿Cuando los setenta regresaron, de que se regocijaban? ",
+       "cita":"(10:17)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Los demonios se nos sujetan en tu nombre",
+       "respuestas":[
+          {
+             "descripcion":"Los demonios se nos sujetan en tu nombre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Muchos fueron curados",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Había gran avivamiento",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todos de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"105",
+       "descripcion":"¿Qué pregunta provoco la parábola del buen samaritano? ",
+       "cita":"(10:29)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Quien es mi prójimo?",
+       "respuestas":[
+          {
+             "descripcion":"Haciendo que cosa heredare la vida eterna?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tengo que guardar a mi hermano?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Donde estas derrochando?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Quien es mi prójimo?",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"106",
+       "descripcion":"¿Cual mujer se sentó a los pies de Jesús? ",
+       "cita":"(10:39)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Dorcas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"María Magdalena",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Felomina",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"107",
+       "descripcion":"¿Que querían los discípulos de Jesús que les ensenara a hacer? ",
+       "cita":"(11:1)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Pescar hombres",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Predicar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ensenar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"108",
+       "descripcion":"¿Como dice Jesús que have para sacar fuera los demonios? ",
+       "cita":"(11:20)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Por el dedo de Dios",
+       "respuestas":[
+          {
+             "descripcion":"Por Belcebú",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Por el dedo de Dios",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Por su enorme poder",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Por el espíritu",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"109",
+       "descripcion":"¿Quiénes amaban las primeras sillas en las sinagogas? ",
+       "cita":"(11:43)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Fariseos",
+       "respuestas":[
+          {
+             "descripcion":"Interpretes de la ley",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Fariseos",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Saduceos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Escribas",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"110",
+       "descripcion":"Completa lo siguiente: Porque la vida del hombre no consiste en la ……….",
+       "cita":"(12:15)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Abundancia de los bienes que posee",
+       "respuestas":[
+          {
+             "descripcion":"Abundancia de los bienes que posee",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Fama que el logra",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Poder que tiene sobre otros",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Riqueza acumulada",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"111",
+       "descripcion":"¿Qué le dijo el hombre rico a su alma? ",
+       "cita":"(12:19)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Descansa, come, bebe, y regocíjate",
+       "respuestas":[
+          {
+             "descripcion":"He jugado al tonto y errado grandemente",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"umbare mis edificios y construiré mejor",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Descansa, come, bebe, y regocíjate",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Qué ganancia tiene hombre si gana todo el mundo pero pierde su alma?",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"112",
+       "descripcion":"En la parábola de la higuera, ¿Cuantos años vino el dueño buscando fruto y no lo halló? ",
+       "cita":"(13:7)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"3",
+       "respuestas":[
+          {
+             "descripcion":"1",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"2",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"3",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"7",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"113",
+       "descripcion":"¿Por cuntos años en total la mujer duro encorvada con el espíritu de ligadura? ",
+       "cita":"(13:11)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"1",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"3",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"12",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"114",
+       "descripcion":"¿Qué ilustración uso Jesús para demostrar cómo le gustaría juntar a los hijos de Jerusalén asía El? ",
+       "cita":"(13:34)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Como la gallina a sus polluelos debajo de sus alas",
+       "respuestas":[
+          {
+             "descripcion":"Como la gallina a sus polluelos debajo de sus alas",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Como una madre junta a sus hijos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Como un pastor junta a su congregación",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Como un granjero a su granja",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"115",
+       "descripcion":"Cuando eres convidado por alguien a bodas, ¿Qué tienes que hacer? ",
+       "cita":"(14:8-10)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Siéntate en el último lugar",
+       "respuestas":[
+          {
+             "descripcion":"Ve con el pobre, el mutilado, el cojo y el ciego",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ve con tus amigos, hermanos, parientes, y vecinos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Has escusas el por cual no puedes ir",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Siéntate en el último lugar",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"116",
+       "descripcion":"¿Qué ilustración dio Jesús para demostrar que uno tiene que contar sus bendiciones antes de ser discípulo? ",
+       "cita":"(14:28)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Edificar una torre",
+       "respuestas":[
+          {
+             "descripcion":"Pájaros tienen nidos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Edificar una torre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Zorros hacen hoyos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Nadie, habiendo puesto la mano en el arado, y mirando hacia atrás, es digno del reino de Dios",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"117",
+       "descripcion":"¿Qué le dijo el hijo perdido a su padre?",
+       "cita":"(15:18-19)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todas la de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Padre, he pecado contra el cielo y contra ti",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"No soy signo de ser llamado tu hijo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Hazme como a uno de tus jornaleros",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas la de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"118",
+       "descripcion":"¿Quién se enojo cuando el hermano mas joven regreso? ",
+       "cita":"(15:25-28)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El hermano mayor",
+       "respuestas":[
+          {
+             "descripcion":"El hermano mayor",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"El padre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Los fariseos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Los escribas",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"119",
+       "descripcion":"¿Qué le pidieron los discípulos al Señor que aumentara? ",
+       "cita":"(17:5)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"La fe",
+       "respuestas":[
+          {
+             "descripcion":"La fe",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sus influencias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sus vidas de oración",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sus riquezas",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"120",
+       "descripcion":"¿Qué hizo un leproso que los otros nueve no hicieron? ",
+       "cita":"(17:15)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Regreso, y con una voz alta glorifico a Dios",
+       "respuestas":[
+          {
+             "descripcion":"Se demostró a los acerdotes",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Regreso, y con una voz alta glorifico a Dios",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Se lavo en las aguas de Siloam",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Fue y le conto a su familia y amistades",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"121",
+       "descripcion":"Jesús dijo que su venida sería similar a los días, ¿de que personaje en el antiguo testamento? ",
+       "cita":"(17:26)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Adán",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Eliseo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Joel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"122",
+       "descripcion":"¿La esposa de quien dijo Jesús que recordaran? ",
+       "cita":"(17:32)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Abrahám",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Isaac",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jacobo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"123",
+       "descripcion":"En la historia de los fariseos y los publicanos, ¿Cual fue la oración de los fariseos? ",
+       "cita":"(18:11)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Dios, te doy gracias porque no soy como los otros hombres",
+       "respuestas":[
+          {
+             "descripcion":"Dios se misericordioso, yo un pecador",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dios, te doy gracias porque no soy como los otros hombres",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Señor, recuérdame cuando entres a tu reino",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Señor, sálvame",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"124",
+       "descripcion":"¿Cuál fue la oración del publicano?",
+       "cita":"(18:13)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Dios se misericordioso, yo un pecador",
+       "respuestas":[
+          {
+             "descripcion":"Dios se misericordioso, yo un pecador",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Dios, te doy gracias porque no soy como los otros hombres",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Señor, recuérdame cuando entres a tu reino",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"125",
+       "descripcion":"¿Cual dijo Jesús que era su propósito?",
+       "cita":"(19:10)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"A buscar y salvar lo que se había perdido",
+       "respuestas":[
+          {
+             "descripcion":"Que tenga vida, y que la tengan en abundancia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para sanar al corazón a quebrantado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para predicar el año aceptable del Señor",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"A buscar y salvar lo que se había perdido",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"126",
+       "descripcion":"¿Cuántas minas les dio el hombre noble a cada uno de sus siervos? ",
+       "cita":"(19:12-24)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"1",
+       "respuestas":[
+          {
+             "descripcion":"1",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"2",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"5",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"10",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"127",
+       "descripcion":"Cuando los fariseos le pidieron a Jesús que reprendiera a sus discípulos por regocijarse y alabar a Dios con voz alta, ¿Cómo les respondió Jesús? ",
+       "cita":"(19:39-40)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Que si estos callaran, las piedras clamarían",
+       "respuestas":[
+          {
+             "descripcion":"Llora en voz alta y guarda nada",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Que si estos callaran, las piedras clamarían",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Con labios tartamudeando y en otras leguas hablare por medio de mi gente",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Deben clamar con gozo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"128",
+       "descripcion":"Cómo respondió Jesús cuando le preguntaron Con qué autoridad haces estas cosas? ¿O quién es el que te ha dado esta autoridad? ",
+       "cita":"(20:2-4)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Preguntándoles si, ¿el bautismo de Juan era del cielo o de los hombres?",
+       "respuestas":[
+          {
+             "descripcion":"Todo poder bajo el cielo y la tierra se me dio",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Preguntándoles si, ¿el bautismo de Juan era del cielo o de los hombres?",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Vengo en el nombre de mi Padre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Yo y el Padre uno somos",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"129",
+       "descripcion":"¿Como respondió Jesús a la pregunta Nos es lícito dar tributo a César o no? ",
+       "cita":"(20:22-25)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Dar a César lo que es de César y a Dios lo que es de Dios",
+       "respuestas":[
+          {
+             "descripcion":"Sujétate a poderes altos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Exhorto que las oraciones hechas para reyes y todos en autoridad, que podamos vivir una vida cayada y llena de paz",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Obedece a todo aquel que tiene gobierno sobre ti",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dar a César lo que es de César y a Dios lo que es de Dios",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"130",
+       "descripcion":"¿Qué seña se le dio a Pedro y Juan para que localizaran el local para la Pascua? ",
+       "cita":"(22:8-10)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Un hombre llevando un cántaro de agua",
+       "respuestas":[
+          {
+             "descripcion":"Un burro el cual ningún hombre había sentado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Un hombre llevando un cántaro de agua",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sonido de un viento recio que sopla",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Un espritu que descendió como una paloma",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"131",
+       "descripcion":"¿Qué deseaba comer Jesús con sus apóstoles? ",
+       "cita":"(22:15)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Pascuas",
+       "respuestas":[
+          {
+             "descripcion":"Pan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Elote",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pescado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pascuas",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"132",
+       "descripcion":"¿Que símbolo tiene el pan en la cena del Señor? ",
+       "cita":"(22:19)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El cuerpo de Jesús",
+       "respuestas":[
+          {
+             "descripcion":"La sangre de Jesús",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El cuerpo de Jesús",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Mana",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Palabra de Dios",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"133",
+       "descripcion":"¿Por quién oro Jesús que su fe no falte? ",
+       "cita":"(22:31-32)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Santiago",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Judas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"134",
+       "descripcion":"¿Qué oro Jesús en el jardín de Getsemaní?",
+       "cita":"(22:42)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Padre, si quieres, pasa de mi; pero no se haga mi voluntad, si no la tuya",
+       "respuestas":[
+          {
+             "descripcion":"Padre, perdónalos, porque no saben lo que hacen",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Padre, si quieres, pasa de mi; pero no se haga mi voluntad, si no la tuya",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Padre, en tus manos encomiendo mi espíritu",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Padre… que sean uno, como nosotros somos uno",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"135",
+       "descripcion":"¿Qué les dijo Pilato a los principales sacerdotes y la gente después de cuestionar a Jesús? ",
+       "cita":"(23:4)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ningún delito hallo en este hombre",
+       "respuestas":[
+          {
+             "descripcion":"Tengan nada con este hombre justo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ningún delito hallo en este hombre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"He visto al Señor",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"En verdad este es el Hijo de Dios",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"136",
+       "descripcion":"¿Porque Herodes deseaba ver a Jesus? ",
+       "cita":"(23:8)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Para ver un milagro",
+       "respuestas":[
+          {
+             "descripcion":"Para capturarlo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para escuchar sus enseñanzas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Para ver un milagro",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Para hacer un truco con sus palabras",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"137",
+       "descripcion":"¿Qué ejemplo de perdón dio Jesús en la cruz? ",
+       "cita":"(23:34)",
+       "libro":"lucas",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Perdono a los que lo crucificaban",
+       "respuestas":[
+          {
+             "descripcion":"Llamo a los soldados sus amigos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Les dio a los soldados sus vestiduras",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Perdono a los que lo crucificaban",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Todas la de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"138",
+       "descripcion":"La ley fue por medio de: ",
+       "cita":"(1:17)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Moisés",
+       "respuestas":[
+          {
+             "descripcion":"Gabriel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Herodes",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jesús",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Moisés",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"139",
+       "descripcion":"Trajo gracia y verdad ",
+       "cita":"(1:17)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Jesús",
+       "respuestas":[
+          {
+             "descripcion":"Gabriel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jesús",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Juan el Bautista",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Moisés",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"140",
+       "descripcion":"¿Quién pensaban que Juan era? ",
+       "cita":"(1:19-23)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Elías",
+       "respuestas":[
+          {
+             "descripcion":"Elías",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Isaías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Maquias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Moisés",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"141",
+       "descripcion":"¿Qué dijo Juan el Bautista de Jesús? ",
+       "cita":"(1:29)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"¡He aquí el Cordero de Dios que quita los pecados del mundo!",
+       "respuestas":[
+          {
+             "descripcion":"¡He aquí el Cordero de Dios que quita los pecados del mundo!",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Reinara para siempre y su reino no tendrá fin",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Hemos encontrado el mesías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Hemos encontrado el cual Moisés en la ley, y también los profetas, escribieron; Jesús el Nazareno",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"142",
+       "descripcion":"¿A quién le introdujo Andrés a Jesús? ",
+       "cita":"(1:40-41)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Simón Pedro",
+       "respuestas":[
+          {
+             "descripcion":"Bartolomé",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Nataniel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Felipe",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Simón Pedro",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"143",
+       "descripcion":"¿Cuál fue el primer milagro que Jesús hizo? ",
+       "cita":"(2:1-11)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Cambio el agua en vino",
+       "respuestas":[
+          {
+             "descripcion":"Limpio a los leprosos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sano al ciego",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Cambio el agua en vino",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sano oídos sordos",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"144",
+       "descripcion":"¿Con que echó fuera del templo Jesús a los cambistas de monedas? ",
+       "cita":"(2:15)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Azotes de cuerdas",
+       "respuestas":[
+          {
+             "descripcion":"Perros",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Escorpiones",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Soldados",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Azotes de cuerdas",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"145",
+       "descripcion":"Después que Jesús esparció las monedas de los cambistas y volcó las mesas y los Judíos pidieron una seña, ¿Qué seña dijo Jesús que les daría? ",
+       "cita":"(2:18-19)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Destruir el templo, y en tres días lo levantare",
+       "respuestas":[
+          {
+             "descripcion":"Como Moisés levanto la serpiente en el desierto, igual el hijo de hombre será levantado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Destruir el templo, y en tres días lo levantare",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"La señal del profeta Jonás",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La señal del profeta Jonás",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"146",
+       "descripcion":"¿A quién le dijo Jesús que debe nacer de nuevo? ",
+       "cita":"(3:1-3)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguno de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Andrés",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Nataniel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Felipe",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguno de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"147",
+       "descripcion":"¿Cómo un hombre puede nacer de nuevo? ",
+       "cita":"(3: 4-5)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Nacer de agua y de espíritu",
+       "respuestas":[
+          {
+             "descripcion":"Acepta a Jesús como tu salvador personal",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Nacer de agua y de espíritu",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Creer en el Señor Jesús",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Hazte miembro de una buena iglesia cristiana",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"148",
+       "descripcion":"¿Qué dijo Juan sobre su relación con Cristo? ",
+       "cita":"(3:29)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Amigo del esposo",
+       "respuestas":[
+          {
+             "descripcion":"Amigo del esposo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"El es mi primo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La voz del que clama en el desierto: Enderezad el camino del Señor",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"149",
+       "descripcion":"¿Que pidió Jesús de la mujer samaritana?",
+       "cita":"(4:7)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Agua",
+       "respuestas":[
+          {
+             "descripcion":"Un lugar donde sentarse",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Direcciones",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Comida",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Agua",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"150",
+       "descripcion":"En la historia de Jesús y la mujer samaritana, ¿como demostró su divinidad? ",
+       "cita":"(4:16-19)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Su conocimiento de su pasado y presente",
+       "respuestas":[
+          {
+             "descripcion":"Sanando su hija",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su conocimiento de su pasado y presente",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Su conocimiento de la escrituras",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"151",
+       "descripcion":"¿Que causo que la mayoría de los samaritanos creyeran? ",
+       "cita":"(4:39-41)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Las palabras de Jesús",
+       "respuestas":[
+          {
+             "descripcion":"Las enseñanzas de Juan el Bautista",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Milagros",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Las palabras de la mujer",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Las palabras de Jesús",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"152",
+       "descripcion":"¿Qué le dijo Jesús al hombre noble que hiciera para que su hijo fuera sanado? ",
+       "cita":"4:49-50",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ve tu hijo vive",
+       "respuestas":[
+          {
+             "descripcion":"Ve, tu hijo vive",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Ten fe en Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Enséñale tu hijo al sacerdote",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Este tipo solo sale con ayuno y oración",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"153",
+       "descripcion":"Antes que Jesús viniera, ¿cuántos años tubo el hombre de Betesda su enfermedad? ",
+       "cita":"5:5",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"38",
+       "respuestas":[
+          {
+             "descripcion":"12",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"18",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"38",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"40",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"154",
+       "descripcion":"¿Qué dijo Jesús daría testimonio de Él? ",
+       "cita":"(5:36-39)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todas de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Las obras que hizo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su Padre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Las escrituras",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"155",
+       "descripcion":"¿Quién proveyó el material para darle de comer a los 5,000? ",
+       "cita":"(6:9)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El niño",
+       "respuestas":[
+          {
+             "descripcion":"El niño",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Felipe",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Los discípulos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La mujer samaritana",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"156",
+       "descripcion":"¿Qué dijo que Jesús que hicieran después que todos habían comido y estaban saciados?",
+       "cita":"(6:12-13)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Recogen las sobras",
+       "respuestas":[
+          {
+             "descripcion":"Dio gracias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Recogen las sobras",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Reposaron",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"157",
+       "descripcion":"¿Cómo le respondió Pedro a Jesús cuando Jesús le preguntó?, ¿también tú te quieres ir?",
+       "cita":"(6:67-68)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Señor, ¿a quién iremos? Tú tienes palabras de vida eterna",
+       "respuestas":[
+          {
+             "descripcion":"Esto es lejos de ti Señor, esto nunca pasara",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"¡Aun si tengo que morir contigo, nunca te negare!",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Señor, ¿a quién iremos? Tú tienes palabras de vida eterna",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Hemos dejado todo y te seguimos",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"158",
+       "descripcion":"¿Porque la gente no recibió el espíritu santo mientras que Jesús estaba en la tierra? ",
+       "cita":"(7:39)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Jesús no había sido glorificado",
+       "respuestas":[
+          {
+             "descripcion":"Jesús no había sido crucificado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Jesús no había sido glorificado",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Jesús no había resucitado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El día de pentecostés no había llegado",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"159",
+       "descripcion":"¿Qué le pido que hiciera Jesús a la mujer adultera? ",
+       "cita":"(8:11)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Vete y no peques más",
+       "respuestas":[
+          {
+             "descripcion":"Ve y llama a tu esposo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Vete y no peques más",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Vete y báñate en las aguas de Siloam",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Vete y báñate en las aguas de Siloam",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"160",
+       "descripcion":"Jesús dijo que si lo conocieran, ¿Ellos supieran que? ",
+       "cita":"(8:19)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Su Padre",
+       "respuestas":[
+          {
+             "descripcion":"Su Padre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sus caminos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Su Palabra",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"161",
+       "descripcion":"¿Jesús dijo que murieran en sus pecados y no creyeran que? ",
+       "cita":"(8:24)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Yo soy el",
+       "respuestas":[
+          {
+             "descripcion":"Yo soy el",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Yo soy la luz del mundo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Yo soy el camino",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Yo soy la verdad",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"162",
+       "descripcion":"¿Qué dijo Jesús que te iba hacer libre? ",
+       "cita":"(8:32)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Verdad",
+       "respuestas":[
+          {
+             "descripcion":"Educación",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Poder",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Verdad",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sabiduría",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"163",
+       "descripcion":"¿Cuál fue la respuesta del ex-ciego cuando los fariseos dijeron que Jesús era un pecador? ",
+       "cita":"(9:25)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Si es un picador, no lo sé; una cosa se, que habiendo sido yo ciego, ahora veo",
+       "respuestas":[
+          {
+             "descripcion":"Ven haber al hombre quien me dijo todo lo que he hecho",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El es el Cristo, el Hijo del Dios viviente",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Les dijo que fue Jesús quien lo sano",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Si es un picador, no lo sé; una cosa se, que habiendo sido yo ciego, ahora veo",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"164",
+       "descripcion":"¿Como las ovejas reconocen su pastor? ",
+       "cita":"(10:3-4)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Conocen su voz",
+       "respuestas":[
+          {
+             "descripcion":"Ellos sabes sus gestos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Conocen su voz",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Reconocen su apariencia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sienten su presencia",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"165",
+       "descripcion":"¿Cuál es la diferencia entre un buen pastor y un asalariado? ",
+       "cita":"(10:12)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El asalariado huye cuando viene el lobo",
+       "respuestas":[
+          {
+             "descripcion":"El pastor le da de comer a sus ovejas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El asalariado huye cuando viene el lobo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Al pastor no le pagan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Al asalariado le pagan",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"166",
+       "descripcion":"¿Porque los Judíos querían apedrear a Jesús? ",
+       "cita":"(10:33)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Porque sano en el día de reposo",
+       "respuestas":[
+          {
+             "descripcion":"Porque Jesús, siendo hombre, se hizo Dios",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Porque se llenaron de envidia porque había mucha gente que lo seguía",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Porque sano en el día de reposo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Porque exhibió sus pecados",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"167",
+       "descripcion":"¿Cuantos días Jesús se quedo después de haberse dado cuenta de la muerte de Lázaro? ",
+       "cita":"(11:6)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"2",
+       "respuestas":[
+          {
+             "descripcion":"1",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"2",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"3",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"4",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"168",
+       "descripcion":"¿Quién fue el sumo sacerdote en ese año y decidió que un hombre moriría por la nación? ",
+       "cita":"(11:49-50)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Califas",
+       "respuestas":[
+          {
+             "descripcion":"Ananías",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Califas",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Herodes",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pilato",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"169",
+       "descripcion":"¿A quién querían matar también los principales sacerdotes porque a causa de él muchos de los judíos creyeron en Jesús? ",
+       "cita":"(12:10-11)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Santiago",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"170",
+       "descripcion":"¿Que pidieron los Griegos de Felipe? ",
+       "cita":"(12:20-21)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ver a Jesús",
+       "respuestas":[
+          {
+             "descripcion":"Sus viudas no fueran ignoradas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Conocer a su hermano Nataniel",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ver a Jesús",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"171",
+       "descripcion":"¿Qué dijo Jesús sobre el grano de trigo?",
+       "cita":"(12:24)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Que si el grano de trigo no cae en la tierra y muere, queda solo",
+       "respuestas":[
+          {
+             "descripcion":"Que si el grano de trigo no cae en la tierra y muere, queda solo",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Aquel que busca la esperanza obtiene esperanza",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El grano caí",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El trigo tiene que ser separado",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"172",
+       "descripcion":"¿Qué ejemplo de humildad demostró Jesús en la ultima cena? ",
+       "cita":"(13:4-15)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Lavamiento de pies",
+       "respuestas":[
+          {
+             "descripcion":"Ayunar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Lavamiento de pies",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Sentarse en el último asiento",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Comer al último",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"173",
+       "descripcion":"¿A través de que Jesús dijo que otros se darían cuenta que son discípulos de El? ",
+       "cita":"(13:35)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Tuvieran amor unos a los otros",
+       "respuestas":[
+          {
+             "descripcion":"Sus apariencias",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Sus fidelidades en ir al templo",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Por sus dedicaciones a principales básicos como a la oración",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Tuvieran amor unos a los otros",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"174",
+       "descripcion":"¿Cómo respondió Jesús a la pregunta de Felipe Señor, demuéstranos al Padre ? ",
+       "cita":"(14:8-9)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"El que me ha visto, ha visto al Padre",
+       "respuestas":[
+          {
+             "descripcion":"El que me ha visto, ha visto al Padre",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Yo vengo en el nombre de mi Padre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Yo y mi Padre uno somos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El sacerdocio mora en mi cuerpo",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"175",
+       "descripcion":"¿Qué dijo Jesús que haríamos si lo amábamos? ",
+       "cita":"(14:15)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Guardar sus mandamientos",
+       "respuestas":[
+          {
+             "descripcion":"Guardar sus mandamientos",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Leer su Palabra",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Orar",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Testificar",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"176",
+       "descripcion":"¿Qué ilustración dio Jesús para darnos saber que debemos estar conectados a Él? ",
+       "cita":"(15:4-5)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"La vid y el pámpano",
+       "respuestas":[
+          {
+             "descripcion":"El Padre y sus hijos",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La Madre y su recién nacido",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El Pastor y sus ovejas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"La vid y el pámpano",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"177",
+       "descripcion":"¿Cuál es el amor más grande que el hombre puede demostrar? ",
+       "cita":"(15:13)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Dar su vida",
+       "respuestas":[
+          {
+             "descripcion":"Donar sangre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dar todos sus bienes para dar de comer al pobre",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dar su cuerpo a la ciencia",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Dar su vida",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"178",
+       "descripcion":"¿Qué hará el espíritu santo? ",
+       "cita":"(16:7-14)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Todas de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Convencerá al mundo de pecado, de justicia, y de juicio",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Glorificar a Jesús",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Guiarte a toda verdad",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Todas de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"179",
+       "descripcion":"¿Qué fue lo que dijo Jesús antes de ir a orar en el jardín de Getsemaní? ",
+       "cita":"(17:11,21-22)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Padre… para que sean uno, así como nosotros somos uno",
+       "respuestas":[
+          {
+             "descripcion":"Padre, perdónalos, porque no saben lo que hacen.",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Padre, si es tu deber, deja pasar esta copa de mi; mas no mi deber, sino el tuyo.",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Padre, en tus manos encomiendo mi espíritu.",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Padre… para que sean uno, así como nosotros somos uno",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"180",
+       "descripcion":"¿Pedro costo el oreja de quien?",
+       "cita":"(18:10)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Malco",
+       "respuestas":[
+          {
+             "descripcion":"El escriba",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"El soldado",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Barrabas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Malco",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"181",
+       "descripcion":"¿Por quién fue Jesús examinado primero?",
+       "cita":"(18:13-24)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ananías",
+       "respuestas":[
+          {
+             "descripcion":"Ananías",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"Califas",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Herodes",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pilato",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"182",
+       "descripcion":"¿Quien dijo Mi Señor y mi Dios? ",
+       "cita":"(20:28)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"Ninguna de arriba",
+       "respuestas":[
+          {
+             "descripcion":"Juan",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"María Magdalena",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Pedro",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"Ninguna de arriba",
+             "esCorrecta":true,
+             "show":true
+          }
+       ]
+    },
+    {
+       "id":"183",
+       "descripcion":"¿Qué pregunta le hizo Jesús a Pedro tres veces después de su resurrección? ",
+       "cita":"(21:15-17)",
+       "libro":"juan",
+       "cantidadSegundos":0,
+       "cantidadSegundosResponder":0,
+       "procesada":false,
+       "show":false,
+       "showRespuestaCorrecta":false,
+       "respuestaCorrecta":"¿Me amas más que esto?",
+       "respuestas":[
+          {
+             "descripcion":"¿Me amas más que esto?",
+             "esCorrecta":true,
+             "show":true
+          },
+          {
+             "descripcion":"¿Ahora crees en mí?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"¿Quién dices quién soy?",
+             "esCorrecta":false,
+             "show":true
+          },
+          {
+             "descripcion":"¿También te fueras tú?",
+             "esCorrecta":false,
+             "show":true
+          }
+       ]
+    }
+ ]

@@ -314,7 +314,7 @@
                   </div>
                  <div class="acordeon">
                     <div class="acordeon-item" >
-                        <input type="checkbox" name="acordeon" id="acordeon-item-1">
+                        <input type="checkbox" name="acordeon-1" id="acordeon-item-1">
                         <label for="acordeon-item-1" class="acordeon-titulo"><h6>Antiguo Testamento</h6></label>
                         <div class="acordeon-contenido" >
                             <div class="acordeon-item d-inline-block mr-2" v-for="(libro, index) in juego.antiguoTestamentoDB" :key="libro">
@@ -326,7 +326,7 @@
                                      :value="libro"
                                      >
 
-                                    <label class="custom-control-label"
+                                    <label class="custom-control-label text-capitalize"
                                      v-bind="{for: 'antiguoTest-' + index }">
                                      {{ libro }}
                                      </label> 
@@ -336,19 +336,19 @@
                         </div>
                     </div>
                     <div class="acordeon-item" >
-                        <input type="checkbox" name="acordeon" id="acordeon-item-2">
+                        <input type="checkbox" name="acordeon-2" id="acordeon-item-2">
                         <label for="acordeon-item-2" class="acordeon-titulo"><h6>Nuevo Testamento</h6></label>
                         <div class="acordeon-contenido" >
                             <div class="acordeon-item d-inline-block mr-2" v-for="(libro, index) in juego.nuevoTestamentoDB" :key="libro">
-                            <div class="">
-                                    <input type="checkbox" class=""
-                                     v-bind="{id: 'antiguoNuevo-' + index }"
+                            <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" class="custom-control-input"
+                                     v-bind="{id: 'nuevoTest-' + index }"
                                      v-model="juego.nuevoTestamento"
                                      :value="libro"
                                      >
 
-                                    <label class=""
-                                     v-bind="{for: 'antiguoNuevo-' + index }">
+                                    <label class="custom-control-label text-capitalize"
+                                     v-bind="{for: 'nuevoTest-' + index }">
                                      {{ libro }}
                                      </label> 
                                 </div>
@@ -1307,35 +1307,70 @@ methods: {
         },
         created() {
             let juego = this.juego;
-
+            let servidor = window.location.href;
+            
+            /*
+            firebase
            db.collection("preguntas").get().then(function(querySnapshot) {
                 querySnapshot.forEach(function(doc) {
                     // doc.data() is never undefined for query doc snapshots
                     console.log(doc.id, " => ", doc.data());
                     juego.repositorioPreguntas.push(doc.data());
                 });
-            });
+            });*/
 
-            const antiguo = db.collection('biblia').doc('antiguo_testamento');
-            const nuevo = db.collection('biblia').doc('nuevo_testamento');
+            //cargar preguntas en local json
+            let url = servidor + 'data.json';
+                fetch(url)
+                    .then( function(res) {
+                    return res.json();
+                    })
+                    .then(function(data) { 
+                        juego.repositorioPreguntas = data;
+                    });
+
+            //cargar biblia Antiguo testamnto en local json
+            let urlAntiguo = servidor + 'antiguo_testamento.json';
+                fetch(urlAntiguo)
+                    .then( function(res) {
+                    return res.json();
+                    })
+                    .then(function(antiguo) { 
+                        juego.antiguoTestamentoDB = antiguo;
+                    });
+
+             //cargar biblia Nuevo testamnto en local json
+            let urlNuevo = servidor + 'nuevo_testamento.json';
+                fetch(urlNuevo)
+                    .then( function(res) {
+                    return res.json();
+                    })
+                    .then(function(nuevo) { 
+                        juego.nuevoTestamentoDB = nuevo;
+                    });
+            
+          
+
+            // const antiguo = db.collection('biblia').doc('antiguo_testamento');
+            // const nuevo = db.collection('biblia').doc('nuevo_testamento');
     
-            antiguo.get()
-            .then((doc) => {
-            if( doc.exists ) {
-                juego.antiguoTestamentoDB  = doc.data().libros;
-            } else {
-                console.error('Documento no existe');
-            }
-            });
+            // antiguo.get()
+            // .then((doc) => {
+            // if( doc.exists ) {
+            //     juego.antiguoTestamentoDB  = doc.data().libros;
+            // } else {
+            //     console.error('Documento no existe');
+            // }
+            // });
 
-            nuevo.get()
-            .then((doc) => {
-            if( doc.exists ) {
-                juego.nuevoTestamentoDB  = doc.data().libros;
-            } else {
-                console.error('Documento no existe');
-            }
-            });
+            // nuevo.get()
+            // .then((doc) => {
+            // if( doc.exists ) {
+            //     juego.nuevoTestamentoDB  = doc.data().libros;
+            // } else {
+            //     console.error('Documento no existe');
+            // }
+            // });
         }
 
 }
