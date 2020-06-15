@@ -166,8 +166,13 @@
                                         </div> 
                                         <p><strong>Cita Biblica:</strong><em>{{ pregunta.cita }}</em></p>  
                                       </div>
-                                      <p v-if="participante.comodin.cita.show"><strong>Cita Biblica:</strong>
-                                      <em>{{ pregunta.cita }}</em></p> 
+                                      <p v-if="participante.comodin.cita.show">
+                                          <strong>Cita Biblica:</strong>
+                                          <em>{{ pregunta.cita }}</em>
+                                       </p>
+                                        <p v-if="participante.comodin.telefono.show">
+                                          <em>Tienes la oportunidad de preguntarle a alguien dentro de la sala o fuuera de la sala.</em>
+                                       </p> 
                                    </div>
                                    <div class="col-md-3">
                                    </div>
@@ -509,8 +514,8 @@ methods: {
                 this.juego.cantidadPreguntas = null;
                 this.juego.cantidadRondas = null;
                 this.juego.nombres = [];
-                this.juego.antiguoTestamento =  '';
-                this.juego.nuevoTestamento = '';
+                this.juego.antiguoTestamento =  [];
+                this.juego.nuevoTestamento = [];
 			},
             openModalReglas: function() {
                 if( ! this.juego.inicializado ){
@@ -604,7 +609,9 @@ methods: {
 
                 //Preguntas
                 let librosSelecionadas = this.getLibrosSeleccionados();
+                console.log('librosSelecionadas: ', librosSelecionadas);
                 let preguntasDisponibles = this.getRepositorioPreguntas(librosSelecionadas);
+                console.log('preguntasDisponibles: ', preguntasDisponibles);
 
                 //add preguntas a la pila
                 preguntasDisponibles.forEach((p) => {
@@ -1200,10 +1207,10 @@ methods: {
             },
             getRepositorioPreguntas(libros) {
                 console.log('entrando... getRepositorioPreguntas');
-                console.log(libros);
+                console.log('Buscando preguntas del libro or libros: ', libros);
                 let preguntas = [];
                 let juego = this.juego;
-                let preguntasPorLibro 
+                let preguntasPorLibro;
 
                 if( libros.length != 0) {
                     libros.forEach(l => {
@@ -1238,7 +1245,6 @@ methods: {
                 juego.rondasCancelada =  0;
                 juego.cantidadRondasContador =  1;
                 juego.cantidadPreguntas =  null;
-                juego.repositorioPreguntas =  [];
                 juego.antiguoTestamento =  [];
                 juego.nuevoTestamento =  [];
                 juego.juegoResultados =  {
