@@ -1327,69 +1327,39 @@ methods: {
         created() {
             let juego = this.juego;
             let servidor = window.location.href;
-            
-            /*
-            firebase
-           db.collection("preguntas").get().then(function(querySnapshot) {
-                querySnapshot.forEach(function(doc) {
-                    // doc.data() is never undefined for query doc snapshots
-                    console.log(doc.id, " => ", doc.data());
-                    juego.repositorioPreguntas.push(doc.data());
-                });
-            });*/
 
             //cargar preguntas en local json
             let url = servidor + 'data.json';
-                fetch(url)
-                    .then( function(res) {
-                    return res.json();
-                    })
-                    .then(function(data) { 
-                        juego.repositorioPreguntas = data;
-                    });
+            fetch(url)
+            .then( function(res) {
+                console.log('https://solascripturaapi.000webhostapp.com/');
+                console.log(res);
+                return res.json();
+            })
+            .then(function(data) { 
+                console.log(data);
+                juego.repositorioPreguntas = data;
+            });
 
             //cargar biblia Antiguo testamnto en local json
             let urlAntiguo = servidor + 'antiguo_testamento.json';
-                fetch(urlAntiguo)
-                    .then( function(res) {
-                    return res.json();
-                    })
-                    .then(function(antiguo) { 
-                        juego.antiguoTestamentoDB = antiguo;
-                    });
+            fetch(urlAntiguo)
+            .then( function(res) {
+                return res.json();
+            })
+            .then(function(antiguo) { 
+                juego.antiguoTestamentoDB = antiguo;
+            });
 
              //cargar biblia Nuevo testamnto en local json
             let urlNuevo = servidor + 'nuevo_testamento.json';
-                fetch(urlNuevo)
-                    .then( function(res) {
-                    return res.json();
-                    })
-                    .then(function(nuevo) { 
-                        juego.nuevoTestamentoDB = nuevo;
-                    });
-            
-          
-
-            // const antiguo = db.collection('biblia').doc('antiguo_testamento');
-            // const nuevo = db.collection('biblia').doc('nuevo_testamento');
-    
-            // antiguo.get()
-            // .then((doc) => {
-            // if( doc.exists ) {
-            //     juego.antiguoTestamentoDB  = doc.data().libros;
-            // } else {
-            //     console.error('Documento no existe');
-            // }
-            // });
-
-            // nuevo.get()
-            // .then((doc) => {
-            // if( doc.exists ) {
-            //     juego.nuevoTestamentoDB  = doc.data().libros;
-            // } else {
-            //     console.error('Documento no existe');
-            // }
-            // });
+            fetch(urlNuevo)
+            .then( function(res) {
+                return res.json();
+            })
+            .then(function(nuevo) { 
+                    juego.nuevoTestamentoDB = nuevo;
+            });
         }
 
 }
