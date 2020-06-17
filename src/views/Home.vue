@@ -22,7 +22,6 @@
                     <div class="navbar-nav ml-auto">
                         <a :class="['nav-link', {isDisabled: btnInicio}]"  @click="openModal" >Iniciar</a>
                         <a :class="['nav-link', {isDisabled: btnInicio}]" @click="openModalReglas">Reglas</a>
-                        <a :class="['nav-link', {isDisabled: btnInicio}]"  @click="openModalLogin">Login</a>
                         <a :class="['nav-link', {isDisabled: btnInicio}]" @click="openModalInfo">Info</a>
                     </div>
                   </div>
@@ -325,10 +324,11 @@
                             <div class="acordeon-item d-inline-block mr-2" v-for="(libro, index) in juego.antiguoTestamentoDB" :key="libro">
                                 
                                 <div class="custom-control custom-checkbox">
-                                    <input type="checkbox" class="custom-control-input"
+                                    <input type="checkbox" class="antiguo-testamento custom-control-input"
                                      v-bind="{id: 'antiguoTest-' + index }"
                                      v-model="juego.antiguoTestamento"
                                      :value="libro"
+                                     @click="seleccionarTodosLibrosAntiguoTestamento()"
                                      >
 
                                     <label class="custom-control-label text-capitalize"
@@ -346,10 +346,11 @@
                         <div class="acordeon-contenido" >
                             <div class="acordeon-item d-inline-block mr-2" v-for="(libro, index) in juego.nuevoTestamentoDB" :key="libro">
                             <div class="custom-control custom-checkbox">
-                                    <input type="checkbox" class="custom-control-input"
+                                    <input type="checkbox" class="nuevo-testamento custom-control-input"
                                      v-bind="{id: 'nuevoTest-' + index }"
                                      v-model="juego.nuevoTestamento"
                                      :value="libro"
+                                      @click="seleccionarTodosLibrosNuevoTestamento()"
                                      >
 
                                     <label class="custom-control-label text-capitalize"
@@ -459,19 +460,12 @@
 
 </template>
 
-<script>
-    
-    import {fb, db} from '../firebase';
-    import Login from '@/components/Login.vue';
-    
+<script>    
 export default {
     name: 'Home',
-    components: {
-        Login    
-    },
     data(){
         return {
-             juego: {
+            juego: {
                 openComodin: 1,
                 esPreguntasDisponibles: false,
                 nombres: [],
@@ -499,7 +493,7 @@ export default {
             }
         }
     },
-methods: {
+    methods: {
 			openModal: function() {
                 if( ! this.juego.inicializado ){
                   	let modal = document.querySelector('#configuracion');
@@ -524,7 +518,7 @@ methods: {
                     modal.classList.add('show') ;
                 }
             },
-             openModalInfo: function() {
+            openModalInfo: function() {
               if( ! this.juego.inicializado ){
                 let modal = document.querySelector('#info');
                 modal.style.display = 'block';
@@ -1251,10 +1245,61 @@ methods: {
                     show: false,
                     participantes: []
                 };
+            },
+            seleccionarTodosLibrosAntiguoTestamento() {
+                setTimeout(() => {
+                    let libros = this.getLibrosSeleccionados();
+                    let checks = document.querySelectorAll(".antiguo-testamento");
+                    let todos = '';
+                    
+                    checks.forEach((check) => {
+                        if( check.value == 'Todos' && check.checked ) {
+                            todos = check.value; 
+                        }
+                    }); 
+                    
+                    if(todos !== '') {
+                        checks.forEach((check) => {
+                            check.checked = true;
+                        });
+                    }else {                       
+                        if(libros.length === 0) {
+                            checks.forEach((check) => {
+                                check.checked = false;
+                            });    
+                        }
+                    }
+    
+                },100);
+            },
+            seleccionarTodosLibrosNuevoTestamento() {
+                setTimeout(() => {
+                    let libros = this.getLibrosSeleccionados();
+                    let checks = document.querySelectorAll(".nuevo-testamento");
+                    let todos = '';
+                    
+                    checks.forEach((check) => {
+                        if( check.value == 'Todos' && check.checked ) {
+                            todos = check.value; 
+                        }
+                    }); 
+                    
+                    if(todos !== '') {
+                        checks.forEach((check) => {
+                            check.checked = true;
+                        });
+                    }else {                     
+                        if(libros.length === 0) {
+                            checks.forEach((check) => {
+                                check.checked = false;
+                            });    
+                        }
+                    }
+    
+                },100);
             }
 		},
-        
-        computed: {
+    computed: {
             esValorRondasMinima: function() {
                 return (this.juego.cantidadRondas < 1) ? true : false;
             },
@@ -1324,7 +1369,7 @@ methods: {
             }
  
         },
-        created() {
+    created() {
             let juego = this.juego;
             let servidor = window.location.href;
 
